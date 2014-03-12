@@ -1,4 +1,2 @@
-foosball-server
-===============
-
-A REST API for tracking foosball statistics.
+# foosball-server
+### a Sails application
